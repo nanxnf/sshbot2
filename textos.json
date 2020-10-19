@@ -1,0 +1,7 @@
+{
+	"start" : "Bot creado para ayudar a tener su VPS todos los dias totalmente gratis. Por favor, no abusar.",
+	"sshgratis" : {
+		"nao_criado" : "Ya creó una cuenta SSH hoy, vuelve mañana.",
+		"limite" : "Llegamos al límite de cuentas paor hoy, vuelve mañana :)"
+	}
+}
